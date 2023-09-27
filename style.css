@@ -88,6 +88,14 @@ a {
     
 }
 
+.cap {
+    font-size: 62px;
+    background: -webkit-linear-gradient(#e4e2f3, #2407cb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
 
 button {
     color: #f9faf8;
@@ -119,7 +127,7 @@ button {
 
 
 .righthero {
-    padding-left: 2em;}
+    padding-left: 3em;}
 
 .man {
     max-width: 100%;
@@ -127,6 +135,7 @@ button {
     height: 350px;
     object-fit: cover;
     border-radius: 50%;
+
     
 }
 
